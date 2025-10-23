@@ -1,2 +1,4 @@
 line 1 - main branch
-line 2 - main branch   - will rebase this
+line 2 - main branch
+line 3 - feature branch
+line 4 - feature branch
